@@ -1,4 +1,4 @@
-# 구구단 Game - Network TermProject
+# 9️⃣9️⃣🕹 - Network TermProject
 
 ### Configuration
 - Login (SignUp, SignIn)
